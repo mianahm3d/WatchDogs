@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">WatchDogs</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="full_name_error">Full name is required</string>
+    <string name="email_error">Email is required</string>
+    <string name="invalid_email_error">Email address is invalid</string>
+    <string name="password_error">Password is required</string>
+    <string name="invalid_password_error">Password must be 6 characters Long</string>
+    <string name="confirm_password_error">Confirm Password is required</string>
+    <string name="password_not_match_error">Confirm password doesn\'t match with password</string>
+    <string name="nav_open">Watch Dogs</string>
+    <string name="nav_close">Watch Dogs</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_a_user_sign_in">Already a user? Sign In</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="events">Events</string>
+    <string name="forums">Forums</string>
+    <string name="settings">Settings</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="sign_in">Sign In</string>
+    <string name="not_a_user_sign_up">Not a user? Sign Up</string>
+    <string name="sos">SOS</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>

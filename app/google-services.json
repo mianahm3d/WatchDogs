@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "157764793176",
+    "project_id": "watch-dog-47002",
+    "storage_bucket": "watch-dog-47002.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157764793176:android:a16ab38654f4bf80a5ab2d",
+        "android_client_info": {
+          "package_name": "com.fourun.watchdogs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOF7f34WVHfnLd3Ta3XFgluSaDa1j0Edc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

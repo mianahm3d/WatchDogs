@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WatchDogs" parent="Theme.Material3.DayNight.NoActionBar">
+            <!-- Customize your theme here. -->
+
+
+    </style>
+
+    <style name="Theme.WatchDogs" parent="Base.Theme.WatchDogs" />
+</resources>
